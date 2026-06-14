@@ -1,15 +1,14 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Hunter Winkles' Computing Apps Knowledge Base
 ---
-## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+# Hunter Winkles' Computing Applications Knowledge Base
 
-## Editing pages
+Welcome to my knowledge base. This website contains information, notes, and resources related to my studies in Computing Applications, including web development, cybersecurity, cloud computing, and project management.
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+# About Me
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+My name is Hunter Winkles, and I am a Computing Applications major at Texas Tech University. I currently work as a Repair Agent at Geek Squad and have a strong interest in cybersecurity, cloud computing, web development, and technology. My goal is to build a career in IT and continue expanding my technical skills.
 
 ### Obsidian (free)
 
