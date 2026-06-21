@@ -37,5 +37,13 @@ You can use any text editor capable of opening and editing Markdown files.
 ---
 ## Adding new pages
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[example doc 1]] to learn more.
 
+## Main Categories
+
+- [[Cloud Computing/index|Cloud Computing]]
+- [[Compliance/index|Compliance]]
+- [[Cybersecurity Fundamentals/index|Cybersecurity Fundamentals]]
+- [[Networking/index|Networking]]
+- [[Operating Systems/index|Operating Systems]]
+- [[Security Tools/index|Security Tools]]

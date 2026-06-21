@@ -1,5 +1,5 @@
 ---
-title: A third example doc inside a folder
+title: Compliance
 ---
 This is an example doc. Docs are Markdown files inside the `content/` directory.
 
