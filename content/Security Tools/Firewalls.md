@@ -17,3 +17,10 @@ Some common benefits include:
 > A firewall provides one of the first layers of defense in a secure network.
 
 Although firewalls are very effective, they work best when combined with other security tools. Antivirus software helps detect malicious programs already on a device, while tools like [[Wireshark]] allow administrators to monitor network traffic. Many organizations also use [[VPN]] connections to securely access networks from remote locations.
+
+![[pngtree-firewall-with-flames-clipart-illustration-png-image_13344997.png]]
+## Additional Reading
+
+![[Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf]]
+
+![[Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf]]
