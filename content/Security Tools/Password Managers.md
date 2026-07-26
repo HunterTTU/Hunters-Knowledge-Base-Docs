@@ -1,4 +1,7 @@
-
+---
+title: Password Managers
+date: 2026-07-25
+---
 ## Why Password Managers Matter
 
 Passwords are hard to remember! Many people reuse the same password across multiple accounts (because it is easier to remember). Unfortunately, this creates a serious security risk. If one account is compromised, attackers may gain access to many others. Password managers solve this problem by securely storing passwords and generating strong, unique passwords for every account!

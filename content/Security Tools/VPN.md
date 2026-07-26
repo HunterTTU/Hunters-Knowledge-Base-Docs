@@ -1,4 +1,7 @@
-
+---
+title: VPN
+date: 2026-07-25
+---
 ## What Is a VPN?
 
 A Virtual Private Network, commonly called a VPN for short, creates an encrypted connection between a user's device and the internet. This encrypted tunnel helps protect personal information from being viewed by hackers, internet service providers, or anyone using the same public Wi-Fi network. 

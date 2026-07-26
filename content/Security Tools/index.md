@@ -8,8 +8,8 @@ This section contains information about several common cybersecurity tools used 
 
 ## Topics
 
-- [[Firewalls]]
 - [[Antivirus]]
+- [[Firewalls]]
 - [[Password Managers]]
 - [[VPN]]
 - [[Wireshark]]

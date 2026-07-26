@@ -1,4 +1,7 @@
-
+---
+title: Wireshark
+date: 2026-07-25
+---
 ## What Is Wireshark?
 
 Wireshark is a free network protocol analyzer that captures and displays network traffic in real time. It is widely used by network administrators, cybersecurity professionals, and students who want to understand how data moves across a network. By examining packets, users can troubleshoot network problems, identify suspicious activity, and learn how communication protocols operate. If you want to see a funny video explaining it, click here: https://www.youtube.com/watch?v=CmwB7QPpGjY

@@ -1,4 +1,7 @@
-
+---
+title: Firewalls
+date: 2026-07-25
+---
 ## What Is a Firewall?
 
 A firewall is one of the most important security tools used to protect computers and networks from unauthorized access. It acts as a barrier between a trusted network and outside connections, such as the internet. Every piece of incoming and outgoing network traffic is checked against a set of security rules to determine whether it should be allowed or blocked. Firewalls are commonly used in homes, schools, and businesses to help reduce the risk of cyberattacks.

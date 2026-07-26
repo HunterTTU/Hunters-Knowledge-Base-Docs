@@ -1,4 +1,7 @@
-
+---
+title: Antivirus
+date: 2026-07-25
+---
 ## What Is Antivirus Software?
 
 Antivirus software is designed to detect, block, and remove malicious software from computers and other devices. Malware can include viruses, ransomware, spyware, worms, and trojans. Antivirus programs regularly scan files and monitor system activity to identify anything that appears suspicious before it causes damage.
